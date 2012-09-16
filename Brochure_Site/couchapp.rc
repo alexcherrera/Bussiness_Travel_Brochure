@@ -1,0 +1,10 @@
+{
+  "env": {
+    "local": {
+      "db": "http://127.0.0.1:5984/travelbrochure"
+    },
+    "cloudant ": {
+      "db": "https://alexcherrera:ileana1123@alexcherrera.cloudant.com/travelbrochure"
+    }
+  }
+}
